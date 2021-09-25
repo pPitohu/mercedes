@@ -1,9 +1,9 @@
-# Промостраница «Мерседес» на JS #
-### Учебный проект от интенсива Glo Academy "Промостраница «Мерседес» на JS", на котором были реализованы следующие компоненты: ###
+## Mercedes Benz A 200 Promo Page
 
-1) **Аккордеон**
-2) **Табы**
-3) **SmoothScroll**
-4) **Модальное окно**
-5) **Мобильное меню**
-6) **Отправка данных**
+Technology used:
+
+- [x] [Animate.css](https://animate.style/)
+- [x] [ScrollReveal](https://scrollrevealjs.org/)
+- [x] [Fancybox](https://fancyapps.com/fancybox/)
+
+**Website available [here.](https://ppitohu.github.io/mercedes/)**
